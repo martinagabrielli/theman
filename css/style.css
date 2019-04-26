@@ -79,7 +79,7 @@ body {
 
 .black4 {
     width: 80px;
-    height: 250px;
+    height: 200px;
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
@@ -88,24 +88,24 @@ body {
 }
 
 .black5 {
-    width: 337px;
+    width: 310px;
     height: 96px;
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
-    left: 186px;
-    top: 720px;
+    left: 213px;
+    top: 683px;
 }
 
 .white2 {
-    width: 500px;
+    width: 480px;
     height: 80px;
     background: #ffffff;
-    transform: rotateX(20deg) rotateY(-121deg) skew(56deg);
+    transform: rotate(30deg) rotateY(130deg) skew(50deg);
     position: absolute;
-    left: 95px;
-    top: 636px;
-    z-index: -1;
+    left: 153px;
+    top: 611px;
+    z-index: -2;
 }
 
 .blue2 {
@@ -114,7 +114,18 @@ body {
     transform: skewY(-20deg);
     background: #29476b;
     position: absolute;
-    left: 186px;
-    top: 705px;
+    left: 213px;
+    top: 675px;
     z-index: -1;
+}
+
+.black6 {
+    width: 80px;
+    height: 57px;
+    background: #000000;
+    transform: rotate(30deg) rotateY(130deg) skew(52deg);
+    position: absolute;
+    left: 539px;
+    top: 1074px;
+    z-index: -2;
 }
