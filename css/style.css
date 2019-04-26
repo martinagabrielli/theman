@@ -8,8 +8,8 @@ body {
     transform: skewY(-20deg);
     background: #000000;
     position: absolute;
-    left: 400px;
-    top: 315px;
+    left: 300px;
+    top: 115px;
 }
 
 .blue1 {
@@ -18,8 +18,8 @@ body {
     transform: skewY(30deg);
     background: #29476b;
     position: absolute;
-    left: 550px;
-    top: 331px; 
+    left: 450px;
+    top: 131px; 
 }
 
 .orange1 {
@@ -28,8 +28,8 @@ body {
     transform: rotateX(20deg) rotateY(-50deg);
     background: #c03f14;
     position: absolute;
-    left: 456px;
-    top: 445px;
+    left: 356px;
+    top: 245px;
 }
 
 .white1 {
@@ -38,8 +38,8 @@ body {
     transform: rotateX(20deg) rotateY(-50deg) skew(56deg);
     background: #ffffff;
     position: absolute;
-    left: 418px;
-    top: 386px;
+    left: 318px;
+    top: 186px;
 }
 
 .black2 {
@@ -48,8 +48,8 @@ body {
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
-    left: 747px;
-    top: 324px;
+    left: 647px;
+    top: 124px;
 }
 
 .black3 {
@@ -58,8 +58,8 @@ body {
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
-    left: 443px;
-    top: 538px;
+    left: 343px;
+    top: 338px;
 }
 
 .orange2 {
@@ -68,8 +68,8 @@ body {
     background: #c03f14;
     transform: skewY(-20deg);
     position: absolute;
-    left: 523px;
-    top: 490px;
+    left: 423px;
+    top: 290px;
     z-index: -1;
 }
 
@@ -79,8 +79,8 @@ body {
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
-    left: 443px;
-    top: 550px;
+    left: 343px;
+    top: 350px;
 }
 
 .black5 {
@@ -89,8 +89,8 @@ body {
     background: #000000;
     transform: skewY(30deg);
     position: absolute;
-    left: 213px;
-    top: 683px;
+    left: 113px;
+    top: 483px;
 }
 
 .white2 {
@@ -99,8 +99,8 @@ body {
     background: #ffffff;
     transform: rotate(30deg) rotateY(130deg) skew(50deg);
     position: absolute;
-    left: 148px;
-    top: 619px;
+    left: 48px;
+    top: 419px;
     z-index: -2;
 }
 
@@ -110,8 +110,8 @@ body {
     transform: skewY(-20deg);
     background: #29476b;
     position: absolute;
-    left: 213px;
-    top: 675px;
+    left: 113px;
+    top: 475px;
     z-index: -1;
 }
 
@@ -121,6 +121,6 @@ body {
     background: #000000;
     transform: rotate(30deg) rotateY(119deg) skew(60deg);
     position: absolute;
-    left: 537px;
-    top: 1110px;
+    left: 437px;
+    top: 910px;
 }
